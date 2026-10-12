@@ -1,0 +1,25 @@
+# Ambiente virtual
+venv/
+env/
+
+# Banco de Dados
+instace/flaskr.sqlite
+
+# Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Arquivos do VS Code
+.vscode/
+.idea/
+*.swp
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Variáveis de ambiente
+.flaskenv
+.env
